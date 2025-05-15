@@ -22,4 +22,4 @@ Seejärel saab testi käivitada kasutajaliideses, mille leiab aadressilt
 
 ## Locusti testide aruanded
 
-Kaust "Locusti testide aruanded", sisaldab Locusti testi lõppedes genereeritud aruandeid, milles on näha erinevate päringute täitmise ajad. Nende aruannete põhjal hinnati Raspberry Pi ja virtuaalmasina jõudlust.
+Kaust "Locusti testide aruanded", sisaldab Locusti testi lõppedes genereeritud aruandeid, milles on näha päringute täitmise ajad. Nende aruannete põhjal hinnati Raspberry Pi ja virtuaalmasina jõudlust.
