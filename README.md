@@ -8,7 +8,7 @@ Töö eesmärk oli välja selgitada, milline neist on parem lahendus väikese ka
 
 ## Jõudlustestid
 
-Jõudlustestide läbiviimiseks kasutati skripti nimega `scenarios.py`.
+Jõudlustestide läbiviimiseks kasutati skripti nimega `scenarios.py`. Skript eeldab, et eksisteerib fail piltideNimed.json, mille abil saab see kätte failid, mida hakatakse Photoprismi üleslaadima.
 
 Skripti jooksutamiseks kasutati käsku
 `locust -f scenarios.py --logfile locust.log`
